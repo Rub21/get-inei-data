@@ -95,3 +95,4 @@ The file is a csv file, save it as `ayacucho.csv`
 This process may take  some time, the output file will be `output.csv`
 
 
+![image](https://user-images.githubusercontent.com/1152236/41062042-278f5b50-699a-11e8-8148-d2b0c788c536.png)
