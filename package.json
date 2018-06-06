@@ -1,0 +1,17 @@
+{
+  "name": "inei-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "0.19.0",
+    "csvtojson": "^2.0.3",
+    "minimist": "^1.2.0",
+    "request": "^2.87.0"
+  },
+  "bin": {
+    "inei": "index.js"
+  },
+  "author": "Rub21 rub2106@gmail.com",
+  "license": "MIT"
+}
